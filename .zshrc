@@ -1,0 +1,1 @@
+/Users/yang/.oh-my-zsh/.zshrc

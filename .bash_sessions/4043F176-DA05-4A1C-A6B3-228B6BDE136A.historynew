@@ -1,0 +1,55 @@
+ifconfig
+cd 003279home
+ls -a
+ls
+ls
+ls -a
+cd ..
+ls
+cd abchome.file
+ls
+ls -a
+ls
+cd ..
+ls
+ls
+cd 003279home
+ls
+less .bash_profile 
+ls
+cd ..
+ks
+ls
+cd ~
+ls
+cd ..
+ls
+cd Shared/
+ls
+cd env/
+ls
+cd maven/
+ls
+cd apache-maven/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd env/
+ls
+cd maven/
+ls
+mkdir -m 777 repository
+ls
+ls -l
+cd repository/
+pwd
+cd /usr
+ls
+cd libexec
+ls
+java_home
+ls -l | grep java

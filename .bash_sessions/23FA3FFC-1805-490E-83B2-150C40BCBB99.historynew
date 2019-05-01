@@ -1,0 +1,284 @@
+curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install.sh | bash -s
+cd ~/Downloads && rm -rf WeChatPlugin-MacOS && git clone https://github.com/TKkk-iOSer/WeChatPlugin-MacOS.git --depth=1 && ./WeChatPlugin-MacOS/Other/Install.sh
+cd ~/Downloads && rm -rf WeChatPlugin-MacOS && git clone https://github.com/TKkk-iOSer/WeChatPlugin-MacOS.git --depth=1 && ./WeChatPlugin-MacOS/Other/Install.sh
+cd ~/Downloads/
+ls
+rm synergy-v1.8.2-stable-36cd521-MacOSX1011-x86_64.dmg 
+ls
+./WeChatPlugin-MacOS/Other/Install.sh
+ls
+cd WeChatPlugin-MacOS/
+ls
+cd Other/
+ls
+./Uninstall.sh 
+cd ..
+ls
+ls
+cd Other/
+ls
+./Install.sh 
+cd /etc
+ls
+cd /private/etc/
+ls
+vim hosts
+sudo vim hosts
+sysctl -n machdep.cpu.brand_string
+ls -a
+mkdir .m2
+cd ..
+ls -l
+cd ~
+ls
+ls -a
+cd ..
+ls
+ls -a
+ll
+ls -l
+cd Shared/
+ls
+cd adi
+ls
+cd ..
+ls
+cd SC\ Info/
+ls
+ll
+ls -a
+ls -l
+cd ..
+ls
+cd adi
+ls
+ls -l
+cd ..
+ls
+mkdir -m 777 env
+ls -a
+ls -l
+cd env
+mkdir -m 777 maven
+ls
+cd maven/
+ls
+cp ~/Downloads/apache-maven-3.6.0-bin.tar.gz .
+ls
+tar -zxf apache-maven-3.6.0-bin.tar.gz .
+tar -zxf apache-maven-3.6.0-bin.tar.gz 
+ls
+rm apache-maven-3.6.0-bin.tar.gz 
+ls
+chmod 777 -R apache-maven-3.6.0
+chmod -R 777 apache-maven-3.6.0
+ls
+ls -a
+ls -l
+cd apache-maven-3.6.0/
+ls
+cd ..
+ls
+mv apache-maven-3.6.0 apache-maven
+ls
+ls -l
+du
+cd ..
+ls
+cd maven/
+ls
+mkdir -m 777 .m2
+ls
+cd .m2
+ls
+mkdir -m 777 repository
+ls
+ls -l
+usermod yang -a -G sudo
+sudo usermod yang -a -G sudo
+which usrmod
+whereis usrmod
+whereis usermod
+usermod
+ls
+cd ..
+ls
+vim settings.xml 
+vim settings2.xml 
+ls
+cd ~
+ls
+cd Dowu
+cd Downloads/
+ls
+unzip sslspeedy2_v2.8.3.zip 
+ls
+unzip sslspeedy2_v2.8.3.zip -d sslspeedy2
+ls
+ls
+cd 003279home
+ls
+ls -a
+vim .bash_profile 
+vim .vimrc
+cp .* ~/
+cp -R .* ~/
+sudo cp -R .* ~/
+ls
+pwd
+cp -R /Users/yang/Downloads/003279home/*.* /Users/yang/
+sudo cp -R /Users/yang/Downloads/003279home/*.* /Users/yang/
+sudo cp -R /Users/yang/Downloads/003279home/ /Users/yang/
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+ls -l
+ls -a
+less .zshrc
+vim .zshrc
+ls -a
+curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install.sh | bash -s
+cd ~/Downloads && rm -rf WeChatPlugin-MacOS && git clone https://github.com/TKkk-iOSer/WeChatPlugin-MacOS.git --depth=1 && ./WeChatPlugin-MacOS/Other/Install.sh
+cd ~/Downloads && rm -rf WeChatPlugin-MacOS && git clone https://github.com/TKkk-iOSer/WeChatPlugin-MacOS.git --depth=1 && ./WeChatPlugin-MacOS/Other/Install.sh
+cd ~/Downloads/
+ls
+rm synergy-v1.8.2-stable-36cd521-MacOSX1011-x86_64.dmg 
+ls
+./WeChatPlugin-MacOS/Other/Install.sh
+ls
+cd WeChatPlugin-MacOS/
+ls
+cd Other/
+ls
+./Uninstall.sh 
+cd ..
+ls
+ls
+cd Other/
+ls
+./Install.sh 
+cd /etc
+ls
+cd /private/etc/
+ls
+vim hosts
+sudo vim hosts
+sysctl -n machdep.cpu.brand_string
+ls -a
+mkdir .m2
+cd ..
+ls -l
+cd ~
+ls
+ls -a
+cd ..
+ls
+ls -a
+ll
+ls -l
+cd Shared/
+ls
+cd adi
+ls
+cd ..
+ls
+cd SC\ Info/
+ls
+ll
+ls -a
+ls -l
+cd ..
+ls
+cd adi
+ls
+ls -l
+cd ..
+ls
+mkdir -m 777 env
+ls -a
+ls -l
+cd env
+mkdir -m 777 maven
+ls
+cd maven/
+ls
+cp ~/Downloads/apache-maven-3.6.0-bin.tar.gz .
+ls
+tar -zxf apache-maven-3.6.0-bin.tar.gz .
+tar -zxf apache-maven-3.6.0-bin.tar.gz 
+ls
+rm apache-maven-3.6.0-bin.tar.gz 
+ls
+chmod 777 -R apache-maven-3.6.0
+chmod -R 777 apache-maven-3.6.0
+ls
+ls -a
+ls -l
+cd apache-maven-3.6.0/
+ls
+cd ..
+ls
+mv apache-maven-3.6.0 apache-maven
+ls
+ls -l
+du
+cd ..
+ls
+cd maven/
+ls
+mkdir -m 777 .m2
+ls
+cd .m2
+ls
+mkdir -m 777 repository
+ls
+ls -l
+usermod yang -a -G sudo
+sudo usermod yang -a -G sudo
+which usrmod
+whereis usrmod
+whereis usermod
+usermod
+ls
+cd ..
+ls
+vim settings.xml 
+vim settings2.xml 
+ls
+cd ~
+ls
+cd Dowu
+cd Downloads/
+ls
+unzip sslspeedy2_v2.8.3.zip 
+ls
+unzip sslspeedy2_v2.8.3.zip -d sslspeedy2
+ls
+ls
+cd 003279home
+ls
+ls -a
+vim .bash_profile 
+vim .vimrc
+cp .* ~/
+cp -R .* ~/
+sudo cp -R .* ~/
+ls
+pwd
+cp -R /Users/yang/Downloads/003279home/*.* /Users/yang/
+sudo cp -R /Users/yang/Downloads/003279home/*.* /Users/yang/
+sudo cp -R /Users/yang/Downloads/003279home/ /Users/yang/
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+ls -l
+ls -a
+less .zshrc
+vim .zshrc
+ls -a

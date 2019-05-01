@@ -1,0 +1,28 @@
+examine Debug environment: bash_ver=$BASH_VERSION, bashdb_ver=$_Dbg_release, program=$0, args=$*
+print "$PPID"
+handle INT stop
+print '############################################################'
+print backtrace
+backtrace 
+print '87477############################################################'
+load /Users/Shared/env/changeIP.sh
+print 'break </Users/Shared/env/changeIP.sh:6 > '
+break /Users/Shared/env/changeIP.sh:6
+print '87477############################################################'
+print backtrace
+backtrace 
+print '87477############################################################'
+info program
+print 'examine <$PWD> '
+examine $PWD
+print 'examine <$? # from '$_Dbg_last_bash_command'> '
+examine $? # from '$_Dbg_last_bash_command'
+print '87477############################################################'
+print 'examine <debugger>'
+examine debugger
+print '87477############################################################'
+print next
+next 
+print '87477############################################################'
+next 
+q 

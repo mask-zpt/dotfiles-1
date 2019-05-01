@@ -1,0 +1,6 @@
+sudo spctl --master-disable
+passwd
+sudo spctl --master-disable
+vim abc
+sysctl -n machdep.cpu.brand_string
+python

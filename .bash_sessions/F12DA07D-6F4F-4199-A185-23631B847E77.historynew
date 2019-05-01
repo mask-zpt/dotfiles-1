@@ -1,0 +1,49 @@
+cd ~
+ls
+pwd
+cd /Users
+ls
+cd Shared/
+ls
+cd ..
+ls
+cd yang/
+ls
+ls -a
+ll
+ls -l
+cd Documents/
+ls
+ll
+ls -l
+cd ../Pictures/
+ls
+cd ../Music/
+ls
+ll
+ls -l
+cd /
+ls
+ls -l
+cd tmp
+ls -l
+ls -a
+cd /Applications/
+ls
+cd /home
+ls
+ll
+pwd
+ls -l
+du
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+pwd
+cd vm
+ls
+ls -a
+ls -l

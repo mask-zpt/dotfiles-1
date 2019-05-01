@@ -1,0 +1,4 @@
+sudo spctl --master-disable
+passwd
+sudo spctl --master-disable
+vim abc
